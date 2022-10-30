@@ -1,0 +1,261 @@
+*{
+box-sizing: border-box;
+}
+body{
+background: #E5E5E5;
+position: relative;
+width: 1440px;
+height: 2688px;
+
+}
+.nav-container{
+position: absolute;
+width: 1120px;
+height: 35px;
+left: calc(50% - 1120px/2);
+top: 102px;
+left: 160px;
+top: 112px;
+padding: 0%;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 23px;
+}
+nav.logo{
+position: absolute;
+font-family: 'DM Sans';
+font-style: normal;
+width: 67.46;
+height: 23px;
+left: 0%;
+right: 93.98%;
+top: 112px;
+bottom: 5.71%;
+color: #181717;
+}
+nav ul{
+    display: flex;
+}
+.nav-items li{
+    list-style: none;
+}
+.nav-items li a{
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+color: #181717;
+text-decoration: none;
+margin-right: 31.35px;
+size: 21px;
+}
+.main-container{
+    position: absolute;
+    margin: 225px;
+    margin-left: 160px;
+}
+.d1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+   
+.main-container.d1.h1{
+position: absolute;
+width: 360px;
+height: 129px;
+left: 160px;
+top: 360px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+
+}
+.d1 p.para{
+position: absolute;
+left: 160px;
+width: 580px;
+margin-left: 116px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+right: 224px;
+color: #606060;
+
+}
+.project1.container{
+top: 801px;
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+color: #181717;
+}
+.d1.content{
+position: absolute;
+margin-top: 25px;
+left: 160px;
+right: 924px;
+}
+.d2{
+    position: relative;
+    display: flex;
+    justify-items:space-between ; 
+    margin-top: 268px;
+
+}
+.content p.para1{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+bottom: 54.97%;
+}
+.content p.para2{
+    color: #606060;
+}
+.d2 div.image1{
+    margin-left: 124px;
+    top: 222px;
+}
+.d2 div.content a{
+position: absolute;
+font-family: 'Inter';
+color: #181717;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+}
+.main-container div.seperator1{
+width: 111.06;
+height: 2px;
+position: absolute;
+top: 108px;
+border: 1.5px solid #181717;
+}
+.project2-container{
+    margin-top: 114px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.project2.container h5{
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+color: #181717;
+}
+.project2-container p.para1{
+    position: absolute;
+    margin-top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+}
+.project2-container a{
+    color: #181717;
+    position: absolute;
+    margin-top: 134px;
+}
+.project2-container.image2{
+    margin-left: 20px;
+    width: 640px;
+    height: 364.68;
+
+}
+.seperator{
+width: 1115px;
+border: 1.5px solid #181717;
+}
+.project3-container{
+    margin-top: 114px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.project3-container.p3{
+position: absolute;
+margin-top: 25px;
+left: 160px;
+right: 924px;
+
+}
+
+.project3-container h3{
+position: absolute;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+color: #181717;
+}   
+.project3-container p.para1{
+    position: absolute;
+    margin-top: 20px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+} 
+.project3-container div.image2{
+    width: 640px;
+    height: 364.68;
+    
+}
+.project3-container a{
+    color: #606060;
+    position: absolute;
+    margin-top: 100px;
+}
+footer nav.nav-items{
+    list-style: none;
+    margin-top: 100px;
+}
+
+footer nav{
+
+   display: flex;
+   align-items: center;
+    justify-content: space-between;
+}
+footer nav div.first{
+   
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 21px;
+    color: #2429AF;
+
+}
+footer ul a{
+  text-decoration: none;
+  margin-left: 12px;
+  color: #181717;
+  font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+line-height: 120%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
